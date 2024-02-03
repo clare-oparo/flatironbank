@@ -1,4 +1,4 @@
-//add a new transaction
+//Add a new transaction
 // TransactionForm.js
 import React, { useState } from 'react';
 
